@@ -12,7 +12,7 @@ COMMIT;
 
 --Output - Commit complete.
 
---2.
+--2. 
 SET AUTOCOMMIT OFF;
 INSERT INTO playgame (username, email, high_score, games_won, games_lost)
     VALUES ("Fishsticks", "schwayfish@lake.com", 1337, 42, 59);
