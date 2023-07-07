@@ -1,4 +1,4 @@
---1.
+--1. 
 CREATE TABLE customers (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     name TEXT,
