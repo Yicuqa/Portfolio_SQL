@@ -1,4 +1,4 @@
---1.
+--1. 
 CREATE TABLE marvels (ID INTEGER PRIMARY KEY,
     name TEXT,
     popularity INTEGER,
