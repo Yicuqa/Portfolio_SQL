@@ -6,7 +6,7 @@ occupation TEXT);
 
 --Output - no rows selected
 
---2.
+--2. 
 INSERT INTO famous_people (fullname, occupation) VALUES ("James Cameron", "Director");
 INSERT INTO famous_people (fullname, occupation) VALUES ("Hugh Jackman", "Actor");
 INSERT INTO famous_people (fullname, occupation) VALUES ("Stephanie Meyers", "Writer");
