@@ -5,7 +5,7 @@ CREATE TABLE customers (
     name TEXT,
     email TEXT);
 
-# I then insertes some data
+# I then inserted some data
 INSERT INTO customers (name, email) VALUES ("Doctor Who", "doctorwho@timelords.com");
 INSERT INTO customers (name, email) VALUES ("Harry Potter", "harry@potter.com");
 INSERT INTO customers (name, email) VALUES ("Captain Awesome", "captain@awesome.com");
