@@ -9,3 +9,10 @@ Data analysis is also a significant component of this portfolio. I explore techn
 Additionally, I highlight my skills in information management by demonstrating techniques for organizing and retrieving data efficiently, such as creating tables, performing searches, and sorting information based on various criteria.
 
 By exploring this portfolio, you will gain insights into my SQL skills and my ability to work with relational databases. The projects cover a range of techniques, including data management, data analysis and information retrieval.
+
+Check in my linkedin:
+https://www.linkedin.com/in/clintwulkan/
+
+Best regards
+Clint Wulkan | Data Analyst | Tableau | Power BI | SQL | Data Visualiuation
+Phone: +46 79 348 18 06 | clint.wulkan@gmail.com
