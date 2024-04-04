@@ -14,5 +14,5 @@ Check in my linkedin:
 https://www.linkedin.com/in/clintwulkan/
 
 Best regards
-Clint Wulkan | Data Analyst | Tableau | Power BI | SQL | Data Visualiuation
-Phone: +46 79 348 18 06 | clint.wulkan@gmail.com
+Clint Wulkan | Data Engineer
+Mail: clint.wulkan@gmail.com
